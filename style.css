@@ -1,0 +1,13 @@
+html body div {
+    border : 1px solid red ; 
+    height: 100%;
+
+}
+html body div div {
+    border : 1px solid red ; 
+    width : 300px ;
+    display: inline-block;
+    margin: 35px;
+
+    
+}
